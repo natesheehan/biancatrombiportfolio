@@ -84,8 +84,6 @@
   </style>
   
   <h1 class="name">SESHTAN</h1>
-  <p style="position: fixed;top:50px;right:50px;font-family:monospace;letter-spacing:1px;">Get in touch: <b style="letter-spacing:2px;font-family:monospace">bianca.trombi1[at]gmail.com</b></p>
-  
   
   
   <a href="https://www.instagram.com/seshtan__/" target="_blank" class="instagram-logo">
