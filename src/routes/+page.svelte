@@ -5,20 +5,7 @@
 </script>
 
 <style>
-  @font-face {
-    font-family: 'big carlson';
-    src: url('big-caslon-regular.ttf');
-  }
 
-  @font-face {
-    font-family: 'snake';
-    src: url('Snake Mix.ttf');
-  }
-
-  @font-face{
-    font-family: 'avenir';
-    src: url('AvenirLTStd-Light.otf');
-  }
 
 
 
