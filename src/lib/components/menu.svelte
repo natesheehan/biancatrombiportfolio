@@ -298,5 +298,3 @@
         <li><a href="/radio">Radio Shows</a></li>
     </ul>
 </div>
-
-    <p style="color:white;position:fixed;bottom:0;">bianca.trombi1@gmail.com</p>
