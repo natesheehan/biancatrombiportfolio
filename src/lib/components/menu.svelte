@@ -271,21 +271,14 @@
           <a href="/about" on:click={closeMenu}>About</a>
         </li>
         <li>
-          <a href="/albums" on:click={closeMenu}>Albums</a>
-        </li>
-        <li>
-          <!-- External link -->
-          <a 
-            href="https://seshtan.bandcamp.com/music"
-            target="_blank"
-            on:click={closeMenu}
-          >
-            Bandcamp
-          </a>
+          <a href="/albums" on:click={closeMenu}>Music</a>
         </li>
         <li>
           <a href="/radio" on:click={closeMenu}>Radio Shows</a>
         </li>
+        <li>
+            <a href="/contact" on:click={closeMenu}>Contact</a>
+          </li>
     </ul>
 </div>
 
@@ -293,8 +286,8 @@
 <div class="menu">
     <ul>
         <li><a href="/about">About</a></li>
-        <li><a href="/albums">Albums</a></li>
-        <li><a href="https://seshtan.bandcamp.com/music">Bandcamp</a></li>
+        <li><a href="/albums">Music</a></li>
         <li><a href="/radio">Radio Shows</a></li>
+        <li><a href="/contact">Contact</a></li>
     </ul>
 </div>
