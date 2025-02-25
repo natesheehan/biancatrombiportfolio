@@ -12,6 +12,7 @@
       color: white;
       font-family: Avenir, sans-serif;
       margin-top: 15%;
+
     }
   
     /* Grid layout for the iframes */
@@ -34,6 +35,11 @@
       .container {
         margin-top: 50%;
       }
+      .album-iframe {       /* take full column width */
+             max-width: 338px;
+        margin-right: 39%;    /* do not exceed 400px if space is larger */
+    }
+
     }
   </style>
   

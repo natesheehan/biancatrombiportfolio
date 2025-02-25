@@ -14,6 +14,7 @@
       width: 60%;
       max-width: 1200px;
       gap: 2rem;
+      margin-top:10%;
     }
   
 
@@ -60,7 +61,7 @@
   
   <div class="container">
     <!-- Text Content -->
-    <div class="text-content" style="font-family:avenir;margin-top:5%">
+    <div class="text-content" style="font-family:avenir;margin-top:5%;line-height:14px;">
       <p>
         Seshtan is an electro-acoustic experimental music project created in 2020 by
         self-taught harpist Bianca Trombi. The project reimagines the classical harp by

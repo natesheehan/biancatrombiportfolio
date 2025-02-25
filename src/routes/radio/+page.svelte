@@ -5,7 +5,7 @@
       { src: "/radio/1 Threads radio.jpg", link: "https://soundcloud.com/threadsradio/seshtan-hackney-wick-22-jan-24?in=seshtan/sets/threads-radio" },
       { src: "/radio/2 Loose Lips.JPG", link: "https://soundcloud.com/loose-lips123/loose-lips-mix-series-434-seshtan?in=seshtan/sets/radio-shows" },
       { src: "/radio/3 Threads.png", link: "https://soundcloud.com/seshtan/threads-radio-gate-w-seshtan-21-feb-23?in=seshtan/sets/threads-radio" },
-      { src: "/radio/4 .jpg", link: "https://soundcloud.com/seshtan/gate-festival-2023" },
+      { src: "/radio/4 (square).jpg", link: "https://soundcloud.com/seshtan/playground-jam-baths-house-london" },
       { src: "/radio/5 Threads.png", link: "https://soundcloud.com/threadsradio/gate-w-bart-seshtan-and-craft-ebbing-hackney-wick-09-jul-24" }
     ];
   

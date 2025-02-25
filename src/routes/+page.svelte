@@ -103,7 +103,7 @@
   .hero {
     position: relative;
     width: 100%;
-    height: 100vh; 
+    height: 250vh; 
     overflow: hidden;
   }
 
@@ -437,35 +437,35 @@
     />
   </div>
   <div class="hero-overlay"></div>
-  <div class="hero-content">
+  <div class="hero-content" style="margin-top: 10%;">
     <!-- Optional headline or call-to-action -->
-
+    <h2 class="events-title">Performances</h2>
+    <div class="events-grid">
+      <div class="year-title">2024</div>
+      <div class="event-date">November 05 | Erthe Runway Show’24, Plantroom, London</div>
+      <div class="event-date">April 20 | Niche Lnd, The Baths House, London</div>
+      <div class="event-date">March 07 | The Sound Of The Divine Feminine, Diwine Grapes, London</div>
+      <div class="event-date">February 08 | Ferm Of The Wick, London</div>
+  
+      <div class="year-title">2023</div>
+      <div class="event-date">December 14 | The Marquis Of Cornwallis, London</div>
+      <div class="event-date">December 03 | Playground Jam, The Baths House, London</div>
+      <div class="event-date">November 24 | Opening Rituals, London</div>
+      <div class="event-date">August 05 | GATE Festival’23, Guilford</div>
+      <div class="event-date">January 28 | Internal Objects Presents, Unit D4, London</div>
+  
+      <div class="year-title">2022</div>
+      <div class="event-date">December 06 | Creatures, London</div>
+      <div class="event-date">November 26 | Internal Objects Presents, Unit D4, London</div>
+      <div class="event-date">August 03 | GATE Festival’24, Guilford</div>
+      <div class="event-date">March 18 | Gather All The Electronics, Algha Works, London</div>
+    </div>
   </div>
 </section>
 
 <!-- EVENTS SECTION -->
 <section class="events-section" id="eventsSection">
-  <h2 class="events-title">Performances</h2>
-  <div class="events-grid">
-    <div class="year-title">2024</div>
-    <div class="event-date">November 05 | Erthe Runway Show’24, Plantroom, London</div>
-    <div class="event-date">April 20 | Niche Lnd, The Baths House, London</div>
-    <div class="event-date">March 07 | The Sound Of The Divine Feminine, Diwine Grapes, London</div>
-    <div class="event-date">February 08 | Ferm Of The Wick, London</div>
 
-    <div class="year-title">2023</div>
-    <div class="event-date">December 14 | The Marquis Of Cornwallis, London</div>
-    <div class="event-date">December 03 | Playground Jam, The Baths House, London</div>
-    <div class="event-date">November 24 | Opening Rituals, London</div>
-    <div class="event-date">August 05 | GATE Festival’23, Guilford</div>
-    <div class="event-date">January 28 | Internal Objects Presents, Unit D4, London</div>
-
-    <div class="year-title">2022</div>
-    <div class="event-date">December 06 | Creatures, London</div>
-    <div class="event-date">November 26 | Internal Objects Presents, Unit D4, London</div>
-    <div class="event-date">August 03 | GATE Festival’24, Guilford</div>
-    <div class="event-date">March 18 | Gather All The Electronics, Algha Works, London</div>
-  </div>
 </section>
 
 <h2 class="events-title">Albums</h2>
