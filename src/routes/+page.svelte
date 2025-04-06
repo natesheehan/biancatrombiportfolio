@@ -389,7 +389,7 @@
      MEDIA QUERIES
   ----------------------------- */
 
-  @media (max-width: 380px) {
+  @media (max-width: 392px) {
 
     .hero-content {
       margin-top: 35% !important;
