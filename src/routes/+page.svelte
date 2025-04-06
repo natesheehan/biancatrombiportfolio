@@ -388,6 +388,14 @@
   /* -----------------------------
      MEDIA QUERIES
   ----------------------------- */
+
+  @media (max-width: 380px) {
+
+    .hero-content {
+      margin-top: 35% !important;
+    }    
+}
+
   @media (max-width: 768px) {
 
     .hero-content {
