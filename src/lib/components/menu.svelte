@@ -219,7 +219,7 @@
             top: 0;
             right: 0;
             text-align: center;
-            margin-top: 20px;
+            margin-top: 10px;
         }
 
         /* Hide desktop menu */

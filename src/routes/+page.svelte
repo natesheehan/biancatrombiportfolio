@@ -391,7 +391,7 @@
   @media (max-width: 768px) {
 
     .hero-content {
-      margin-top: 5%;
+      margin-top: 10%;
     }
 
     .header {

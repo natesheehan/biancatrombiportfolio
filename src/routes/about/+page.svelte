@@ -64,13 +64,13 @@
     <div class="text-content" style="font-family:avenir;margin-top:5%;line-height:14px;">
       <p>
         Seshtan is an electro-acoustic experimental music project created in 2020 by
-        self-taught harpist Bianca Trombi. The project reimagines the classical harp by
-        blending its traditional sounds with unconventional techniques and effects. Her
-        work focuses on the exploration of the ecology of sounds that a harp can produce,
+        self-taught harpist Bianca Trombi. The project reimagines the sound of the harp by
+        exploring experimental techniques and diverse physical methods of sound synthesis through her instrument. 
+        Her work focuses on the exploration of the ecology of sounds that a harp can produce,
         delving into free improvisation and extended techniques to create a wide range
-        of textures, rhythms, and effects beyond its traditional role—from whistle-like
-        tones and gong-like effects to xylophonic and percussive rhythms. These sounds
-        are used to shape new auditory narratives, soundscapes, and non-idiomatic
+        of textures, rhythms, and effects beyond its traditional role - from gong-like tones
+        and howling echoes to drone and percussive sounds. Drawing inspiration from ceremonial sounds
+        she creates new auditory narratives, soundscapes, and non-idiomatic
         compositions, where the harp is the main character and primary source of sound,
         moving away from the conventions typically associated with the instrument.
       </p>
