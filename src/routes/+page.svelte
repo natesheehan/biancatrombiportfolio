@@ -162,6 +162,7 @@
     height: 100%;
     text-align: center;
     padding: 1rem;
+    margin-top: 10%;
     animation: fadeInUp 1s ease forwards;
     opacity: 0;
     transform: translateY(20px);
@@ -388,6 +389,11 @@
      MEDIA QUERIES
   ----------------------------- */
   @media (max-width: 768px) {
+
+    .hero-content {
+      margin-top: 5%;
+    }
+
     .header {
       height: 50px;
     }
@@ -406,7 +412,7 @@
     }
 
     .hero{
-      height:85vh;
+      height:125vh;
     }
 
     .hero-image-wrapper{
@@ -437,7 +443,7 @@
     />
   </div>
   <div class="hero-overlay"></div>
-  <div class="hero-content" style="margin-top: 10%;">
+  <div class="hero-content">
     <!-- Optional headline or call-to-action -->
     <h2 class="events-title">Performances</h2>
     <div class="events-grid">
